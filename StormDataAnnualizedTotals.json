@@ -1,0 +1,738 @@
+[
+    {
+        "year": 1970,
+        "annual_data": {
+            "num_storm_events": 3215,
+            "property_damage": 625205980.0,
+            "crop_damage": 0.0,
+            "total_damage": 625205980.0,
+            "injuries_direct": 1355,
+            "injuries_indirect": 0,
+            "total_injuries": 1355,
+            "deaths_direct": 73,
+            "deaths_indirect": 0,
+            "total_deaths": 73,
+            "total_casualties": 1428
+        }
+    },
+    {
+        "year": 1971,
+        "annual_data": {
+            "num_storm_events": 3471,
+            "property_damage": 202120550.0,
+            "crop_damage": 0.0,
+            "total_damage": 202120550.0,
+            "injuries_direct": 2723,
+            "injuries_indirect": 0,
+            "total_injuries": 2723,
+            "deaths_direct": 159,
+            "deaths_indirect": 0,
+            "total_deaths": 159,
+            "total_casualties": 2882
+        }
+    },
+    {
+        "year": 1972,
+        "annual_data": {
+            "num_storm_events": 2171,
+            "property_damage": 151872570.0,
+            "crop_damage": 10000.0,
+            "total_damage": 151882570.0,
+            "injuries_direct": 1027,
+            "injuries_indirect": 0,
+            "total_injuries": 1027,
+            "deaths_direct": 34,
+            "deaths_indirect": 0,
+            "total_deaths": 34,
+            "total_casualties": 1061
+        }
+    },
+    {
+        "year": 1973,
+        "annual_data": {
+            "num_storm_events": 4453,
+            "property_damage": 2063041560.0,
+            "crop_damage": 0.0,
+            "total_damage": 2063041560.0,
+            "injuries_direct": 2402,
+            "injuries_indirect": 0,
+            "total_injuries": 2402,
+            "deaths_direct": 89,
+            "deaths_indirect": 0,
+            "total_deaths": 89,
+            "total_casualties": 2491
+        }
+    },
+    {
+        "year": 1974,
+        "annual_data": {
+            "num_storm_events": 5375,
+            "property_damage": 1941017780.0,
+            "crop_damage": 0.0,
+            "total_damage": 1941017780.0,
+            "injuries_direct": 6824,
+            "injuries_indirect": 0,
+            "total_injuries": 6824,
+            "deaths_direct": 366,
+            "deaths_indirect": 0,
+            "total_deaths": 366,
+            "total_casualties": 7190
+        }
+    },
+    {
+        "year": 1975,
+        "annual_data": {
+            "num_storm_events": 4975,
+            "property_damage": 826723790.0,
+            "crop_damage": 0.0,
+            "total_damage": 826723790.0,
+            "injuries_direct": 1457,
+            "injuries_indirect": 0,
+            "total_injuries": 1457,
+            "deaths_direct": 60,
+            "deaths_indirect": 0,
+            "total_deaths": 60,
+            "total_casualties": 1517
+        }
+    },
+    {
+        "year": 1976,
+        "annual_data": {
+            "num_storm_events": 3768,
+            "property_damage": 308497190.0,
+            "crop_damage": 0.0,
+            "total_damage": 308497190.0,
+            "injuries_direct": 1195,
+            "injuries_indirect": 0,
+            "total_injuries": 1195,
+            "deaths_direct": 44,
+            "deaths_indirect": 0,
+            "total_deaths": 44,
+            "total_casualties": 1239
+        }
+    },
+    {
+        "year": 1977,
+        "annual_data": {
+            "num_storm_events": 3728,
+            "property_damage": 342024230.0,
+            "crop_damage": 0.0,
+            "total_damage": 342024230.0,
+            "injuries_direct": 771,
+            "injuries_indirect": 0,
+            "total_injuries": 771,
+            "deaths_direct": 43,
+            "deaths_indirect": 0,
+            "total_deaths": 43,
+            "total_casualties": 814
+        }
+    },
+    {
+        "year": 1978,
+        "annual_data": {
+            "num_storm_events": 3657,
+            "property_damage": 616068160.0,
+            "crop_damage": 0.0,
+            "total_damage": 616068160.0,
+            "injuries_direct": 919,
+            "injuries_indirect": 0,
+            "total_injuries": 919,
+            "deaths_direct": 53,
+            "deaths_indirect": 0,
+            "total_deaths": 53,
+            "total_casualties": 972
+        }
+    },
+    {
+        "year": 1979,
+        "annual_data": {
+            "num_storm_events": 4279,
+            "property_damage": 946241240.0,
+            "crop_damage": 0.0,
+            "total_damage": 946241240.0,
+            "injuries_direct": 3014,
+            "injuries_indirect": 0,
+            "total_injuries": 3014,
+            "deaths_direct": 84,
+            "deaths_indirect": 0,
+            "total_deaths": 84,
+            "total_casualties": 3098
+        }
+    },
+    {
+        "year": 1980,
+        "annual_data": {
+            "num_storm_events": 6136,
+            "property_damage": 2152814350.0,
+            "crop_damage": 0.0,
+            "total_damage": 2152814350.0,
+            "injuries_direct": 1157,
+            "injuries_indirect": 0,
+            "total_injuries": 1157,
+            "deaths_direct": 28,
+            "deaths_indirect": 0,
+            "total_deaths": 28,
+            "total_casualties": 1185
+        }
+    },
+    {
+        "year": 1981,
+        "annual_data": {
+            "num_storm_events": 4517,
+            "property_damage": 765888310.0,
+            "crop_damage": 0.0,
+            "total_damage": 765888310.0,
+            "injuries_direct": 798,
+            "injuries_indirect": 0,
+            "total_injuries": 798,
+            "deaths_direct": 24,
+            "deaths_indirect": 0,
+            "total_deaths": 24,
+            "total_casualties": 822
+        }
+    },
+    {
+        "year": 1982,
+        "annual_data": {
+            "num_storm_events": 7126,
+            "property_damage": 1429193000.0,
+            "crop_damage": 0.0,
+            "total_damage": 1429193000.0,
+            "injuries_direct": 1276,
+            "injuries_indirect": 0,
+            "total_injuries": 1276,
+            "deaths_direct": 64,
+            "deaths_indirect": 0,
+            "total_deaths": 64,
+            "total_casualties": 1340
+        }
+    },
+    {
+        "year": 1983,
+        "annual_data": {
+            "num_storm_events": 8322,
+            "property_damage": 765855590.0,
+            "crop_damage": 0.0,
+            "total_damage": 765855590.0,
+            "injuries_direct": 816,
+            "injuries_indirect": 0,
+            "total_injuries": 816,
+            "deaths_direct": 37,
+            "deaths_indirect": 0,
+            "total_deaths": 37,
+            "total_casualties": 853
+        }
+    },
+    {
+        "year": 1984,
+        "annual_data": {
+            "num_storm_events": 7335,
+            "property_damage": 2131171390.0,
+            "crop_damage": 0.0,
+            "total_damage": 2131171390.0,
+            "injuries_direct": 2858,
+            "injuries_indirect": 0,
+            "total_injuries": 2858,
+            "deaths_direct": 160,
+            "deaths_indirect": 0,
+            "total_deaths": 160,
+            "total_casualties": 3018
+        }
+    },
+    {
+        "year": 1985,
+        "annual_data": {
+            "num_storm_events": 7979,
+            "property_damage": 1608097210.0,
+            "crop_damage": 0.0,
+            "total_damage": 1608097210.0,
+            "injuries_direct": 1513,
+            "injuries_indirect": 0,
+            "total_injuries": 1513,
+            "deaths_direct": 112,
+            "deaths_indirect": 0,
+            "total_deaths": 112,
+            "total_casualties": 1625
+        }
+    },
+    {
+        "year": 1986,
+        "annual_data": {
+            "num_storm_events": 8725,
+            "property_damage": 1034912340.0,
+            "crop_damage": 0.0,
+            "total_damage": 1034912340.0,
+            "injuries_direct": 915,
+            "injuries_indirect": 0,
+            "total_injuries": 915,
+            "deaths_direct": 51,
+            "deaths_indirect": 0,
+            "total_deaths": 51,
+            "total_casualties": 966
+        }
+    },
+    {
+        "year": 1987,
+        "annual_data": {
+            "num_storm_events": 7363,
+            "property_damage": 407837950.0,
+            "crop_damage": 0.0,
+            "total_damage": 407837950.0,
+            "injuries_direct": 1416,
+            "injuries_indirect": 0,
+            "total_injuries": 1416,
+            "deaths_direct": 89,
+            "deaths_indirect": 0,
+            "total_deaths": 89,
+            "total_casualties": 1505
+        }
+    },
+    {
+        "year": 1988,
+        "annual_data": {
+            "num_storm_events": 7257,
+            "property_damage": 1124214650.0,
+            "crop_damage": 0.0,
+            "total_damage": 1124214650.0,
+            "injuries_direct": 1030,
+            "injuries_indirect": 0,
+            "total_injuries": 1030,
+            "deaths_direct": 55,
+            "deaths_indirect": 0,
+            "total_deaths": 55,
+            "total_casualties": 1085
+        }
+    },
+    {
+        "year": 1989,
+        "annual_data": {
+            "num_storm_events": 10407,
+            "property_damage": 1760051050.0,
+            "crop_damage": 0.0,
+            "total_damage": 1760051050.0,
+            "injuries_direct": 1675,
+            "injuries_indirect": 0,
+            "total_injuries": 1675,
+            "deaths_direct": 79,
+            "deaths_indirect": 0,
+            "total_deaths": 79,
+            "total_casualties": 1754
+        }
+    },
+    {
+        "year": 1990,
+        "annual_data": {
+            "num_storm_events": 10945,
+            "property_damage": 1560568070.0,
+            "crop_damage": 0.0,
+            "total_damage": 1560568070.0,
+            "injuries_direct": 1825,
+            "injuries_indirect": 0,
+            "total_injuries": 1825,
+            "deaths_direct": 95,
+            "deaths_indirect": 0,
+            "total_deaths": 95,
+            "total_casualties": 1920
+        }
+    },
+    {
+        "year": 1991,
+        "annual_data": {
+            "num_storm_events": 12516,
+            "property_damage": 1152296430.0,
+            "crop_damage": 0.0,
+            "total_damage": 1152296430.0,
+            "injuries_direct": 1355,
+            "injuries_indirect": 0,
+            "total_injuries": 1355,
+            "deaths_direct": 73,
+            "deaths_indirect": 0,
+            "total_deaths": 73,
+            "total_casualties": 1428
+        }
+    },
+    {
+        "year": 1992,
+        "annual_data": {
+            "num_storm_events": 13534,
+            "property_damage": 1406688900.0,
+            "crop_damage": 0.0,
+            "total_damage": 1406688900.0,
+            "injuries_direct": 1754,
+            "injuries_indirect": 0,
+            "total_injuries": 1754,
+            "deaths_direct": 54,
+            "deaths_indirect": 0,
+            "total_deaths": 54,
+            "total_casualties": 1808
+        }
+    },
+    {
+        "year": 1993,
+        "annual_data": {
+            "num_storm_events": 8664,
+            "property_damage": 3205514250.0,
+            "crop_damage": 107205950.0,
+            "total_damage": 3312720200.0,
+            "injuries_direct": 989,
+            "injuries_indirect": 0,
+            "total_injuries": 989,
+            "deaths_direct": 69,
+            "deaths_indirect": 0,
+            "total_deaths": 69,
+            "total_casualties": 1058
+        }
+    },
+    {
+        "year": 1994,
+        "annual_data": {
+            "num_storm_events": 15627,
+            "property_damage": 1660231250.0,
+            "crop_damage": 556654550.0,
+            "total_damage": 2216885800.0,
+            "injuries_direct": 1169,
+            "injuries_indirect": 0,
+            "total_injuries": 1169,
+            "deaths_direct": 63,
+            "deaths_indirect": 0,
+            "total_deaths": 63,
+            "total_casualties": 1232
+        }
+    },
+    {
+        "year": 1995,
+        "annual_data": {
+            "num_storm_events": 20461,
+            "property_damage": 2948636500.0,
+            "crop_damage": 274625300.0,
+            "total_damage": 3223261800.0,
+            "injuries_direct": 1847,
+            "injuries_indirect": 0,
+            "total_injuries": 1847,
+            "deaths_direct": 78,
+            "deaths_indirect": 0,
+            "total_deaths": 78,
+            "total_casualties": 1925
+        }
+    },
+    {
+        "year": 1996,
+        "annual_data": {
+            "num_storm_events": 48561,
+            "property_damage": 6025984150.0,
+            "crop_damage": 1736747840.0,
+            "total_damage": 7762731990.0,
+            "injuries_direct": 2700,
+            "injuries_indirect": 0,
+            "total_injuries": 2700,
+            "deaths_direct": 522,
+            "deaths_indirect": 0,
+            "total_deaths": 522,
+            "total_casualties": 3222
+        }
+    },
+    {
+        "year": 1997,
+        "annual_data": {
+            "num_storm_events": 41991,
+            "property_damage": 9350758735.0,
+            "crop_damage": 1151914000.0,
+            "total_damage": 10502672735.0,
+            "injuries_direct": 3791,
+            "injuries_indirect": 0,
+            "total_injuries": 3791,
+            "deaths_direct": 600,
+            "deaths_indirect": 0,
+            "total_deaths": 600,
+            "total_casualties": 4391
+        }
+    },
+    {
+        "year": 1998,
+        "annual_data": {
+            "num_storm_events": 50973,
+            "property_damage": 11590183930.0,
+            "crop_damage": 4494837850.0,
+            "total_damage": 16085021780.0,
+            "injuries_direct": 11139,
+            "injuries_indirect": 0,
+            "total_injuries": 11139,
+            "deaths_direct": 685,
+            "deaths_indirect": 0,
+            "total_deaths": 685,
+            "total_casualties": 11824
+        }
+    },
+    {
+        "year": 1999,
+        "annual_data": {
+            "num_storm_events": 46383,
+            "property_damage": 8720833050.0,
+            "crop_damage": 3531972067.0,
+            "total_damage": 12252805117.0,
+            "injuries_direct": 5144,
+            "injuries_indirect": 0,
+            "total_injuries": 5144,
+            "deaths_direct": 907,
+            "deaths_indirect": 0,
+            "total_deaths": 907,
+            "total_casualties": 6051
+        }
+    },
+    {
+        "year": 2000,
+        "annual_data": {
+            "num_storm_events": 52007,
+            "property_damage": 5621406840.0,
+            "crop_damage": 3329171920.0,
+            "total_damage": 8950578760.0,
+            "injuries_direct": 2803,
+            "injuries_indirect": 0,
+            "total_injuries": 2803,
+            "deaths_direct": 477,
+            "deaths_indirect": 0,
+            "total_deaths": 477,
+            "total_casualties": 3280
+        }
+    },
+    {
+        "year": 2001,
+        "annual_data": {
+            "num_storm_events": 48875,
+            "property_damage": 10026799670.0,
+            "crop_damage": 1816728100.0,
+            "total_damage": 11843527770.0,
+            "injuries_direct": 2721,
+            "injuries_indirect": 0,
+            "total_injuries": 2721,
+            "deaths_direct": 469,
+            "deaths_indirect": 0,
+            "total_deaths": 469,
+            "total_casualties": 3190
+        }
+    },
+    {
+        "year": 2002,
+        "annual_data": {
+            "num_storm_events": 50936,
+            "property_damage": 4100863250.0,
+            "crop_damage": 1410364140.0,
+            "total_damage": 5511227390.0,
+            "injuries_direct": 3155,
+            "injuries_indirect": 0,
+            "total_injuries": 3155,
+            "deaths_direct": 498,
+            "deaths_indirect": 0,
+            "total_deaths": 498,
+            "total_casualties": 3653
+        }
+    },
+    {
+        "year": 2003,
+        "annual_data": {
+            "num_storm_events": 52955,
+            "property_damage": 10254538930.0,
+            "crop_damage": 1143060350.0,
+            "total_damage": 11397599280.0,
+            "injuries_direct": 2931,
+            "injuries_indirect": 0,
+            "total_injuries": 2931,
+            "deaths_direct": 443,
+            "deaths_indirect": 0,
+            "total_deaths": 443,
+            "total_casualties": 3374
+        }
+    },
+    {
+        "year": 2004,
+        "annual_data": {
+            "num_storm_events": 52409,
+            "property_damage": 25350158740.0,
+            "crop_damage": 1452177839.0,
+            "total_damage": 26802336579.0,
+            "injuries_direct": 2426,
+            "injuries_indirect": 0,
+            "total_injuries": 2426,
+            "deaths_direct": 370,
+            "deaths_indirect": 0,
+            "total_deaths": 370,
+            "total_casualties": 2796
+        }
+    },
+    {
+        "year": 2005,
+        "annual_data": {
+            "num_storm_events": 53976,
+            "property_damage": 96673858610.0,
+            "crop_damage": 3998698150.0,
+            "total_damage": 100672556760.0,
+            "injuries_direct": 1834,
+            "injuries_indirect": 0,
+            "total_injuries": 1834,
+            "deaths_direct": 1451,
+            "deaths_indirect": 0,
+            "total_deaths": 1451,
+            "total_casualties": 3285
+        }
+    },
+    {
+        "year": 2006,
+        "annual_data": {
+            "num_storm_events": 56400,
+            "property_damage": 7072302890.0,
+            "crop_damage": 3657502700.0,
+            "total_damage": 10729805590.0,
+            "injuries_direct": 3485,
+            "injuries_indirect": 602,
+            "total_injuries": 4087,
+            "deaths_direct": 607,
+            "deaths_indirect": 52,
+            "total_deaths": 659,
+            "total_casualties": 4746
+        }
+    },
+    {
+        "year": 2007,
+        "annual_data": {
+            "num_storm_events": 59010,
+            "property_damage": 7357270660.0,
+            "crop_damage": 4883583250.0,
+            "total_damage": 12240853910.0,
+            "injuries_direct": 3688,
+            "injuries_indirect": 817,
+            "total_injuries": 4505,
+            "deaths_direct": 523,
+            "deaths_indirect": 190,
+            "total_deaths": 713,
+            "total_casualties": 5218
+        }
+    },
+    {
+        "year": 2008,
+        "annual_data": {
+            "num_storm_events": 71190,
+            "property_damage": 27106820720.0,
+            "crop_damage": 3217303000.0,
+            "total_damage": 30324123720.0,
+            "injuries_direct": 2905,
+            "injuries_indirect": 3615,
+            "total_injuries": 6520,
+            "deaths_direct": 571,
+            "deaths_indirect": 255,
+            "total_deaths": 826,
+            "total_casualties": 7346
+        }
+    },
+    {
+        "year": 2009,
+        "annual_data": {
+            "num_storm_events": 57398,
+            "property_damage": 6773376630.0,
+            "crop_damage": 685488500.0,
+            "total_damage": 7458865130.0,
+            "injuries_direct": 1875,
+            "injuries_indirect": 961,
+            "total_injuries": 2836,
+            "deaths_direct": 374,
+            "deaths_indirect": 185,
+            "total_deaths": 559,
+            "total_casualties": 3395
+        }
+    },
+    {
+        "year": 2010,
+        "annual_data": {
+            "num_storm_events": 62804,
+            "property_damage": 9553841690.0,
+            "crop_damage": 2150661960.0,
+            "total_damage": 11704503650.0,
+            "injuries_direct": 2374,
+            "injuries_indirect": 860,
+            "total_injuries": 3234,
+            "deaths_direct": 491,
+            "deaths_indirect": 186,
+            "total_deaths": 677,
+            "total_casualties": 3911
+        }
+    },
+    {
+        "year": 2011,
+        "annual_data": {
+            "num_storm_events": 79091,
+            "property_damage": 21115229290.0,
+            "crop_damage": 3067460530.0,
+            "total_damage": 24182689820.0,
+            "injuries_direct": 8859,
+            "injuries_indirect": 1039,
+            "total_injuries": 9898,
+            "deaths_direct": 1096,
+            "deaths_indirect": 240,
+            "total_deaths": 1336,
+            "total_casualties": 11234
+        }
+    },
+    {
+        "year": 2012,
+        "annual_data": {
+            "num_storm_events": 64503,
+            "property_damage": 32792586410.0,
+            "crop_damage": 6073778010.0,
+            "total_damage": 38866364420.0,
+            "injuries_direct": 2652,
+            "injuries_indirect": 633,
+            "total_injuries": 3285,
+            "deaths_direct": 537,
+            "deaths_indirect": 170,
+            "total_deaths": 707,
+            "total_casualties": 3992
+        }
+    },
+    {
+        "year": 2013,
+        "annual_data": {
+            "num_storm_events": 59985,
+            "property_damage": 8817388050.0,
+            "crop_damage": 4374998050.0,
+            "total_damage": 13192386100.0,
+            "injuries_direct": 2767,
+            "injuries_indirect": 1503,
+            "total_injuries": 4270,
+            "deaths_direct": 448,
+            "deaths_indirect": 144,
+            "total_deaths": 592,
+            "total_casualties": 4862
+        }
+    },
+    {
+        "year": 2014,
+        "annual_data": {
+            "num_storm_events": 59465,
+            "property_damage": 5511720390.0,
+            "crop_damage": 2183305300.0,
+            "total_damage": 7695025690.0,
+            "injuries_direct": 2205,
+            "injuries_indirect": 773,
+            "total_injuries": 2978,
+            "deaths_direct": 388,
+            "deaths_indirect": 169,
+            "total_deaths": 557,
+            "total_casualties": 3535
+        }
+    },
+    {
+        "year": 2015,
+        "annual_data": {
+            "num_storm_events": 57788,
+            "property_damage": 4446678890.0,
+            "crop_damage": 644720700.0,
+            "total_damage": 5091399590.0,
+            "injuries_direct": 2174,
+            "injuries_indirect": 692,
+            "total_injuries": 2866,
+            "deaths_direct": 536,
+            "deaths_indirect": 165,
+            "total_deaths": 701,
+            "total_casualties": 3567
+        }
+    }
+]
